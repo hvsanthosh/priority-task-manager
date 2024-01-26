@@ -35,7 +35,7 @@ const twilioCallCronLogic = () => {
           });
 
           console.log(`Voice call sent to user ${user._id}`);
-          break; // Exit the loop after calling the first user
+          break; 
         } else {
           console.log("there are no users with due_date tasks!!");
         }
