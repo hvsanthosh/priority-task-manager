@@ -9,9 +9,7 @@
 git clone https://github.com/hvsanthosh/priority-task-manager
 ```
 - Next you want some credentials from twilio to start. Follow this guide for step-by-step-process.
-```shell
--Signup with twilio for free and get service dail number and other credentials, for this purpose use this below link.
-```
+-[Twilio Voice](https://www.twilio.com/docs/voice/make-calls)
 
 -Now install the dependencies.
 ```shell
